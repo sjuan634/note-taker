@@ -32,4 +32,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Usage
 
-[Demo Video](https://drive.google.com/file/d/1txNB1gWUWAcT6vdsBCezfYxa7VSBXklf/view)
+[Demo Video](https://drive.google.com/file/d/1uXixhL_pVMv8E2_pnP0OmvGQ0_VYX7xN/view)
